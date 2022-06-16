@@ -1,3 +1,6 @@
+## 🔴 IMPORTANT❗🔴 
+### amtree.sh is being replaced by a better, more powerful tool: [frodo](https://github.com/rockcarver/frodo). This repo will remain here but check out frodo and see if it can help you better accomplish what you need to. (June, 2022)
+
 # AM-treetool
 A shell script tool to export, import, list, describe, and prune Forgerock Identity Cloud and ForgeRock Access Management journeys/trees.
 
